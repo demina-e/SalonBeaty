@@ -1,0 +1,1 @@
+Scaffold-DbContext -Connection Name=user4 Microsoft.EntityFrameworkCore.SqlServer -OutputDir Models -force
